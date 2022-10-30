@@ -1,8 +1,4 @@
 # Recommended template: Node.gitignore
 
 node_modules/
-dist/
-npm-debug.log
-yarn-error.log
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Vuejs
